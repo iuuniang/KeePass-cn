@@ -2,8 +2,8 @@
 
 [KeePass](https://keepass.info/) 简体中文语言包
 
-- 当前支持版本：2.51.1+
-- 更新时间：2022-05-11
+- 当前支持版本：2.53
+- 更新时间：2023-02-02
 
 ## 步骤
 
@@ -12,16 +12,6 @@
 3. 解压将 `Chinese_Simplified.lngx` 文件放至 KeePass 程序目录下 `Languages` 文件夹中(*存在则替换*)
 4. 启动 KeePass 选择语言(*已选择可忽略*)
 
-## 记录
-
-以下字符串由于未知其具体所处位置而没有进行翻译。
-
-| ID                | English          |
-| ----------------- | ---------------- |
-| AssociationsLower | association(s)   |
-| KeyFileSase       | KeyFile          |
-| MoreAnd           | and {PARAM} more |
-| Selected          | Selected         |
 
 ## 声明
 
